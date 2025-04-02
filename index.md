@@ -36,6 +36,6 @@ print("Hello World") //printing
 
 A program I was really involved in during high school was [Simon Scholars Program](https://simonscholars.org/).
 
-Link to reading: [Link Text](#reading-books).
+Link to reading: [Link Text](#reading-books)
 
-[Paint image in repo](main/Paint.png)
+[Paint image in repo](Paint.png)
