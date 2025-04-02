@@ -3,7 +3,7 @@ Hi, my name is Fnu Anu and I am second-year CS major.
 1. BRAINROT
   
 2. Art
-![Image](paint.png)
+![Image](Paint.png)
 
 3. Volunteer
 
