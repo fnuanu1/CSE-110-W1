@@ -39,3 +39,21 @@ A program I was really involved in during high school was [Simon Scholars Progra
 Link to reading: [Link Text](#reading-books)
 
 [Paint image in repo](Paint.png)
+
+Classes I am taking this quarter:
++ CSE 110
+- CSE 105
+* ECON 5
++ ECON 100A
+- CSE 198
++ CHEM 11
+
+TOP 3 fav right now:
+1. CSE 110
+2. ECON 5
+3. CHEM 11
+
+Today's Task List:
+- [ ] GYM
+- [x] EAT
+- [ ] HW
