@@ -3,7 +3,7 @@ Hi, my name is Fnu Anu and I am second-year CS major.
 1. BRAINROT
   
 2. Art
-![Image](https://canvas.ucsd.edu/courses/64571/files/14909665/preview)
+![Image](paint.png)
 
 3. Volunteer
 
