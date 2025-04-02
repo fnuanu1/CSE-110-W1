@@ -1,7 +1,11 @@
 Hi, my name is Fnu Anu and I am second-year CS major.
 # Fnu Anu *Hobbies*
-1. Art
-![Image](paint.jpeg)
-2.
-3. 
-4. 
+1. BRAINROT
+  
+2. Art
+![Image]()
+
+3. Volunteer
+
+4. Research
+5. Reading Books
