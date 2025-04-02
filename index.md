@@ -23,7 +23,7 @@ Hi, my name is Fnu Anu and I am a 2nd-year CS major at Thurgood Marshall.
 ## Art
 ![Image](Paint.png)
 
-
+## Random Facts about me
 The best way to decribe my adventures is:
 YOLO
 > You only live once - Mae West
