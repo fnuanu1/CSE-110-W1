@@ -38,7 +38,7 @@ A program I was really involved in during high school was [Simon Scholars Progra
 
 Link to reading: [Link Text](#reading-books)
 
-[Paint image in repo](Paint.png)
+[README file](README.md)
 
 Classes I am taking this quarter:
 + CSE 110
