@@ -29,9 +29,15 @@ YOLO
 > You only live once - Mae West
 
 
-Some simple code that I started with originally was:
+Some simple code that I started with originally for my bioinformatics research:
 ```
-print("Hello World") //printing
+def getGC(seq):
+    try:
+        from Bio.SeqUtils import GC
+        return GC(seq)
+    except ImportError:
+        from Bio.SeqUtils import gc_fraction
+        return gc_fraction(seq, "weighted")*100
 ```
 
 A program I was really involved in during high school was [Simon Scholars Program](https://simonscholars.org/).
