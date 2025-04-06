@@ -1,6 +1,6 @@
 Hi, my name is Fnu Anu and I am a 2nd-year CS major at Thurgood Marshall.
 
-![Image](Anupic.png)
+![Image](Pictures/Anupic.png)
 
 # *My Hobbies*
 ## ~~BRAINROT~~ *oopsie*
@@ -21,7 +21,7 @@ Hi, my name is Fnu Anu and I am a 2nd-year CS major at Thurgood Marshall.
 - My favorite dramatic book was Great Gatsby.
 
 ## Art
-![Image](Paint.png)
+![Image](Pictures/Paint.png)
 
 ## Random Facts about me
 The best way to decribe my adventures is:
